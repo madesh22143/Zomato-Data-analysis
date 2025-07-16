@@ -85,5 +85,5 @@ GROUP BY r.cuisine;
 ## 💡 Tools Used
 
 - SQL (PostgreSQL/MySQL)
-- Excel or Tableau (optional for visualization)
+  -Power BI (optional for visualization)
 
