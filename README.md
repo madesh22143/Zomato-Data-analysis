@@ -1,7 +1,7 @@
 # Zomato-Data-analysis
 Zomato Sales Analysis Using SQL
 
-This is a fictional project that mimics the Zomato food delivery platform. It performs SQL-based analysis on sales, customer behavior, restaurant performance, and delivery metrics.
+This is a  project that mimics the Zomato food delivery platform. It performs SQL-based analysis on sales, customer behavior, restaurant performance, and delivery metrics.
 
 ## 📌 Project Overview
 
